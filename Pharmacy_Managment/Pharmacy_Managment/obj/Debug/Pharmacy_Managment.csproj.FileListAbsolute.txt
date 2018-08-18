@@ -1,0 +1,72 @@
+c:\users\eslam nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.exe.config
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.csprojResolveAssemblyReference.cache
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_LOGIN.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.Properties.Resources.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.csproj.GenerateResource.Cache
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.exe
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.pdb
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.exe
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.pdb
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_MAIN.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDCATEGORY.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.DAL.FRM_CATEGORYMANAGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ACTIVEMATERIALMANAAGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDACTIVEMATERIAL.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDSCEINTIFICNAME.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SCEINTIFICMANAGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWPRODUCT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTMANAGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTIMG.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTEXPIERDATES.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWSUPPLIER.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.RPT.FRM_REPORTS.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SUPPLIERMANEGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SEARCH.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_BACKUP.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_Restore.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWPURCHASE.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWUSER.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_USER_MANGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_REQUEST_MANAGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_COUNTRY.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_CITY.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_AddNewCustomer.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_CUSTOMER_MANEGEMENT.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_AddNewSeles.resources
+C:\Users\Eslam Nagm\documents\visual studio 2012\Projects\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_Order_Manegenment.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.exe.config
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.exe
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.pdb
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.exe
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\bin\Debug\Pharmacy_Managment.pdb
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.csprojResolveAssemblyReference.cache
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ACTIVEMATERIALMANAAGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDACTIVEMATERIAL.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDCATEGORY.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_AddNewCustomer.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWPRODUCT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWPURCHASE.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_AddNewSeles.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWSUPPLIER.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDNEWUSER.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_ADDSCEINTIFICNAME.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_BACKUP.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.DAL.FRM_CATEGORYMANAGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_CITY.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_COUNTRY.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_CUSTOMER_MANEGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_Login.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_MAIN.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_Order_Manegenment.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTEXPIERDATES.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTIMG.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_PRODUCTMANAGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_REQUEST_MANAGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_Restore.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SCEINTIFICMANAGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SEARCH.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_SUPPLIERMANEGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.PL.FRM_USER_MANGEMENT.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.Properties.Resources.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.RPT.FRM_REPORTS.resources
+C:\Users\SAFWAT\Desktop\New folder\Pharmacy_Managment\Pharmacy_Managment\obj\Debug\Pharmacy_Managment.csproj.GenerateResource.Cache
